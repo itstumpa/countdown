@@ -5,10 +5,10 @@
 }
 
 body {
-      background: url(1.jpg) no-repeat center center fixed rgba(0, 0, 0, 0.4) ;
+      background: url(1.jpg) no-repeat center center fixed rgba(0, 0, 0, 0.3) ;
       background-size: cover;
   background-blend-mode: darken;
-	/* background-color: #000000; */
+	/* background-color: #323975; */
 
 	color: #fff;
 	display: flex;
